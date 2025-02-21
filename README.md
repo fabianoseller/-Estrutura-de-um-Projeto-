@@ -174,8 +174,17 @@ Explique como os dados serão tratados após a coleta:
 5. **"Metodologia de Pesquisa"** - Roberto Hernández Sampieri et al. (5ª edição).
 
 
+
+
+
 ##   CopySpider  ##
 https://copyspider.com.br/main/
+
+![image](https://github.com/user-attachments/assets/d11f4517-6a8f-4fab-9b89-6eb7a9d66d91)
+
+
+
+
 
 # CopySpider
 
