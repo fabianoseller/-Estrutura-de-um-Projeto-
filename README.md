@@ -179,4 +179,24 @@ Explique como os dados serão tratados após a coleta:
 5. **"Metodologia de Pesquisa"** - Roberto Hernández Sampieri et al. (5ª edição).
 
 
+##   CopySpider  ##
+https://copyspider.com.br/main/
+
+# CopySpider
+
+O **CopySpider** é uma ferramenta **freeware** para testar documentos sob o crivo de existência de cópias indevidas de outros documentos disponíveis na internet.
+
+## O que são cópias indevidas?
+
+Um documento possui cópias indevidas quando adapta ou transcreve trechos de outros documentos sem apresentar conformidade com a norma de citações de referências (bibliográficas).
+
+## Características do CopySpider
+
+- Projetado para ser **ágil** e **preciso**.
+- Identifica documentos semelhantes disponíveis na internet.
+- 
+
+![image](https://github.com/user-attachments/assets/094db32a-b597-4203-b982-9e5da51c7028)
+
+
 
