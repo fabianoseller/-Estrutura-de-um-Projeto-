@@ -31,14 +31,19 @@
 - Tipo de pesquisa (qualitativa, quantitativa, mista).
 - Descrição dos métodos de coleta e análise de dados.
 - População/alvo e amostra, se aplicável.
+
 ![xgl0ziyunrervdsp6af2](https://github.com/user-attachments/assets/010ea66c-c1a9-4a7a-9ce1-1de2f3ef65b7)
+
 - Instrumentos de coleta de dados. 
 
 ## Cronograma
 - Divisão temporal das atividades relacionadas ao projeto de pesquisa.
 
 
-![images (3)](https://github.com/user-attachments/assets/ae76c641-c3a4-46ec-bf8e-1c9d29300f4f) ![image](https://github.com/user-attachments/assets/83ba8ec2-4c9e-4409-a650-d126e9ce9bd8)
+![images (3)](https://github.com/user-attachments/assets/ae76c641-c3a4-46ec-bf8e-1c9d29300f4f) 
+
+
+![image](https://github.com/user-attachments/assets/83ba8ec2-4c9e-4409-a650-d126e9ce9bd8)
 
 
 # Metodologia de Pesquisa
@@ -82,12 +87,13 @@ A abordagem se divide, basicamente, em dois tipos:
 ---
 
 
-![images (1)](https://github.com/user-attachments/assets/b589edc3-094b-495f-926d-eac4ec363035)
+ ![24f494e5-80ad-4f3d-8bbb-6ceaf43faacb](https://github.com/user-attachments/assets/09a74ee7-c6d6-460e-9ae4-51873e3981ca)
 
 
 ## 2. Procedimentos Metodológicos
 
 Aqui, você precisará informar o tipo de pesquisa escolhido para desenvolver seu estudo. O tipo será classificado segundo o método empregado.
+
 
 ### Tipos de Pesquisa:
 #### **Pesquisa Bibliográfica**
@@ -102,6 +108,8 @@ Aqui, você precisará informar o tipo de pesquisa escolhido para desenvolver se
 
 #### **Estudo de Caso**
 - Estratégia preferida para questões do tipo “como” e “por quê”, com foco em fenômenos contemporâneos inseridos em contextos da vida real.
+
+- ![images (1)](https://github.com/user-attachments/assets/b589edc3-094b-495f-926d-eac4ec363035)  
 
 #### **Ensaio Clínico**
 - Aplicação de um tratamento (intervenção) para observar seus efeitos sobre um desfecho. Objetivo principal: Avaliar a eficácia de novas drogas ou tratamentos.
