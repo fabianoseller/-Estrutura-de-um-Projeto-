@@ -3,12 +3,7 @@
 
 
 
-![ssjoyf30ws1tepvipcnk](https://github.com/user-attachments/assets/48b71cc5-888f-4513-bf54-48f2741d09cf)
-
- 
-![spfjpf2yyyrihnniljmp](https://github.com/user-attachments/assets/b92f2616-a549-48dc-bc59-071ce446b9b5)
-
-![d7iixtnzr5s0lyuw2bsp](https://github.com/user-attachments/assets/4614ef2f-daf8-4086-aacb-534f863143b8)
+![ssjoyf30ws1tepvipcnk](https://github.com/user-attachments/assets/48b71cc5-888f-4513-bf54-48f2741d09cf)   |   ![spfjpf2yyyrihnniljmp](https://github.com/user-attachments/assets/b92f2616-a549-48dc-bc59-071ce446b9b5)  |  ![d7iixtnzr5s0lyuw2bsp](https://github.com/user-attachments/assets/4614ef2f-daf8-4086-aacb-534f863143b8)
 
 
 
@@ -36,22 +31,14 @@
 - Tipo de pesquisa (qualitativa, quantitativa, mista).
 - Descrição dos métodos de coleta e análise de dados.
 - População/alvo e amostra, se aplicável.
-- Instrumentos de coleta de dados.
-
 ![xgl0ziyunrervdsp6af2](https://github.com/user-attachments/assets/010ea66c-c1a9-4a7a-9ce1-1de2f3ef65b7)
+- Instrumentos de coleta de dados. 
 
 ## Cronograma
 - Divisão temporal das atividades relacionadas ao projeto de pesquisa.
 
 
-
-![images (3)](https://github.com/user-attachments/assets/ae76c641-c3a4-46ec-bf8e-1c9d29300f4f)
-
-![image](https://github.com/user-attachments/assets/83ba8ec2-4c9e-4409-a650-d126e9ce9bd8)
-
-
-
-
+![images (3)](https://github.com/user-attachments/assets/ae76c641-c3a4-46ec-bf8e-1c9d29300f4f) ![image](https://github.com/user-attachments/assets/83ba8ec2-4c9e-4409-a650-d126e9ce9bd8)
 
 
 # Metodologia de Pesquisa
