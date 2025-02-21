@@ -27,6 +27,8 @@
 - Resumo das principais teorias e descobertas relevantes.
 - Lista de fontes utilizadas.
 
+- 
+
 ## Referências Bibliográficas
 - Inclusão de todas as referências citadas no projeto.
 
@@ -43,8 +45,7 @@
 
 
 
-
-
+![images (3)](https://github.com/user-attachments/assets/ae76c641-c3a4-46ec-bf8e-1c9d29300f4f)
 
 
 
@@ -62,7 +63,12 @@ Nesta etapa do Projeto/Trabalho você precisará informar os seguintes tópicos:
 
 A abordagem se divide, basicamente, em dois tipos:
 
+
+
+![images (2)](https://github.com/user-attachments/assets/bec1b88d-bcc9-48fa-960b-f195c437a31c)
+
 ### **Abordagem Quantitativa**
+
 - Busca medir, quantificar e analisar fenômenos por meio de dados numéricos.
 - **Objetivo principal**: Identificar padrões, relações de causa e efeito e realizar inferências estatísticas sobre uma população maior.
 - **Amostra**: Geralmente envolve um número maior de participantes selecionados de forma aleatória ou representativa.
@@ -84,6 +90,10 @@ A abordagem se divide, basicamente, em dois tipos:
 - Este trabalho foi desenvolvido com a concepção qualitativa de fazer pesquisa, pois esta se preocupa com um nível de realidade que não pode ser quantificado. (MINAYO, 1994). Desse modo, partindo de uma perspectiva de análise qualitativa, esta pesquisa é do tipo...
 
 ---
+
+
+![images (1)](https://github.com/user-attachments/assets/b589edc3-094b-495f-926d-eac4ec363035)
+
 
 ## 2. Procedimentos Metodológicos
 
@@ -112,7 +122,14 @@ Aqui, você precisará informar o tipo de pesquisa escolhido para desenvolver se
 #### **Pesquisa Participante**
 - Desenvolvida com interação entre pesquisadores e membros das situações investigadas. Os participantes são envolvidos ativamente no processo.
 
-### Exemplo de escrita no texto:
+
+
+![download](https://github.com/user-attachments/assets/6f4a5875-f7d7-4eda-8727-a34e89478928)
+
+
+
+
+Exemplo de escrita no texto:
 #### Pesquisa Bibliográfica
 > A coleta dos dados se deu por meio de pesquisas na internet em bases como Google Acadêmico, Scielo e Periódico Capes. Foram utilizados livros acessados em bibliotecas virtuais e físicas para fundamentar este estudo.
 
@@ -136,14 +153,20 @@ Nesta etapa:
 
 ## 4. Análise dos Dados
 
+
+
 Explique como os dados serão tratados após a coleta:
 1. Como serão apresentados (tabelas, gráficos etc.).
 2. Quais categorias serão agrupadas para responder à pergunta da pesquisa.
 
 ### Exemplo:
 > A análise dos dados será realizada por meio da seleção das perguntas e respostas que mais contribuirão para a discussão dos resultados. Os dados selecionados serão organizados em tabelas conforme os temas abordados...
+>
+> 
+
 
 ---
+![gettyimages-200525008-001-612x612](https://github.com/user-attachments/assets/4e9215b1-ea7c-4442-84c7-41cb3410bbf5)
 
 ## Sugestões Bibliográficas
 1. **"Metodologia do Trabalho Científico"** - Antônio Joaquim Severino (23ª edição).
