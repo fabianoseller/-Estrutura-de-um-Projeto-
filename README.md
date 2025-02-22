@@ -199,6 +199,11 @@ Um documento possui cópias indevidas quando adapta ou transcreve trechos de out
 - Projetado para ser **ágil** e **preciso**.
 - Identifica documentos semelhantes disponíveis na internet.
 
+
+![image](https://github.com/user-attachments/assets/094db32a-b597-4203-b982-9e5da51c7028)
+
+
+
 --------------------------------
 
 https://predaqualis.netlify.app/
@@ -217,8 +222,6 @@ Por se tratar de um trabalho científico, a dissertação de mestrado deve segui
 Entretanto, note que não apenas argumentos que se alinhem às suas hipóteses são necessários em uma dissertação de mestrado. É também essencial que você apresente **ideias que contradigam seu ponto de vista**, tanto quanto aquelas que o suportam.
 
 
-
-![image](https://github.com/user-attachments/assets/094db32a-b597-4203-b982-9e5da51c7028)
 
 
 
