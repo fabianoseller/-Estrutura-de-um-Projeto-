@@ -222,6 +222,17 @@ Por se tratar de um trabalho científico, a dissertação de mestrado deve segui
 Entretanto, note que não apenas argumentos que se alinhem às suas hipóteses são necessários em uma dissertação de mestrado. É também essencial que você apresente **ideias que contradigam seu ponto de vista**, tanto quanto aquelas que o suportam.
 
 
+Exemplos:
+![image](https://github.com/user-attachments/assets/93382085-7214-4fd2-829f-7259d6d4484f)
+https://orcid.org/0000-0002-0060-8644
+
+https://editoraomnisscientia.com.br/blog/orcid-o-que-e-e-para-que-serve/
+
+![image](https://github.com/user-attachments/assets/9f3a378c-8ec6-4675-b681-10ce1b897873)
+
+
+
+
 
 
 
