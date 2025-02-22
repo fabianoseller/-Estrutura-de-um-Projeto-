@@ -198,7 +198,25 @@ Um documento possui cópias indevidas quando adapta ou transcreve trechos de out
 
 - Projetado para ser **ágil** e **preciso**.
 - Identifica documentos semelhantes disponíveis na internet.
-- 
+
+--------------------------------
+
+https://predaqualis.netlify.app/
+--------------------------------
+
+
+
+https://www.anpg.org.br/2019/04/dissertacao-de-mestrado-o-que-e/
+
+# Dissertação de Mestrado
+
+A dissertação de mestrado trata-se de um trabalho acadêmico cuja finalidade é a de contribuir com reflexões ou análises sobre um tema específico. Partindo dessa premissa, a dissertação de mestrado **não precisa ser inédita**, como é o caso da tese de doutorado. No mestrado, é aceito que se aborde temas que já são debatidos na esfera acadêmica, mas que tragam um **novo olhar** sobre o tema tratado.
+
+Por se tratar de um trabalho científico, a dissertação de mestrado deve seguir uma **metodologia comprovada** de análise e sempre trazer dados e argumentos que corroborem a hipótese levantada.
+
+Entretanto, note que não apenas argumentos que se alinhem às suas hipóteses são necessários em uma dissertação de mestrado. É também essencial que você apresente **ideias que contradigam seu ponto de vista**, tanto quanto aquelas que o suportam.
+
+
 
 ![image](https://github.com/user-attachments/assets/094db32a-b597-4203-b982-9e5da51c7028)
 
