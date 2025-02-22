@@ -234,6 +234,9 @@ https://editoraomnisscientia.com.br/blog/orcid-o-que-e-e-para-que-serve/
 ![image](https://github.com/user-attachments/assets/9f3a378c-8ec6-4675-b681-10ce1b897873)
 
 
+## TRABALHO BASES PARA ELABORAÇÃO E ANÁLISE DE ARTIGOS CIENTÍFICOS Prof. Dr. Carlos Brito ##
+![image](https://github.com/user-attachments/assets/21e8509a-e7ea-43ec-836d-1a0c7aef3cd4)
+
 
 
 
