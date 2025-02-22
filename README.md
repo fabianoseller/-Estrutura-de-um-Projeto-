@@ -1,5 +1,8 @@
-# -Estrutura-de-um-Projeto-
- Estrutura de um Projeto de Pesquisa
+#  Estrutura de um Projeto de Pesquisa
+
+![Estrutura de um Projeto de Pesquisa](https://github.com/user-attachments/assets/cd63edb6-7532-4e3f-a1eb-bf74ed68dd20)
+
+
 
 
 
