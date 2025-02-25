@@ -266,3 +266,15 @@ https://cinform-anteriores.ufba.br/vi_anais/docs/VaniaLSGuedes.pdf
 # https://predaqualis.netlify.app/noticias/
 ![image](https://github.com/user-attachments/assets/a2818161-403c-4ef0-8615-f1a57bfe35a1)
 
+##############################################
+
+![image](https://github.com/user-attachments/assets/a3cc54cf-0f56-4f54-ac80-9df08c702201)
+
+#
+4.491 visualizações  20 de fev. de 2025
+Deep Research: O Futuro da Pesquisa com IA? Testamos OpenAI, Google Gemini e Perplexity! Se você quer saber como a Inteligência Artificial pode revolucionar a forma como buscamos 
+e organizamos informações ou trabalha com pesquisa acadêmica, este vídeo é para você! 🔍# https://www.youtube.com/watch?v=2rzqZHfE0tY
+
+
+
+
