@@ -2,6 +2,10 @@
 
 ![Estrutura de um Projeto de Pesquisa](https://github.com/user-attachments/assets/cd63edb6-7532-4e3f-a1eb-bf74ed68dd20)
 
+![Captura de tela 2025-02-25 165723](https://github.com/user-attachments/assets/01ff32be-0ede-413c-9a22-00635f31fcff)
+
+#Ajuda perplexity pages  # https://www.perplexity.ai/page/resenhas-no-meio-academico-ewOBEs6.QjyJ9wrU6kI6tA
+
 
 
 
